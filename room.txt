@@ -1,0 +1,10 @@
+Life: 1
+Time: 20
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+I                            I
+I                     &      I
+I    a                       I
+I                            I
+I                            I
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIII

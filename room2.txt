@@ -1,0 +1,15 @@
+Life: 1
+Time: 90
+                                           
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+I  a I                                               I                 I
+I    I                                    XXXXXXXXXXXIIIIIIIII         I
+I    I                                    X                  I         I
+I    I                                    X       XXX I      I         I
+I    I                                    X       X   I      I         I
+I    IIIIIIIXXXXXXXXXXXXXXXXXXXXXX        X       X   I      I         I
+I                                X        X       X   I      I         I
+IIIIIIIIIIIXXXXXXXXXXXXXXXXXXX   X        X       X   I      IIIIIIIIIII
+I         I                  X   XXXXXXXXXX       X   I               &I
+I         I                  X                        IIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII

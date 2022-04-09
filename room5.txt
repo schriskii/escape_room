@@ -1,0 +1,19 @@
+Life: 1
+Time: 200
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Ia    I           I        I              I  I
+IIII  I  I  IIIIIII  IIII  I  IIIIIIIIII  I  I
+I     I  I     I     I     I  I     I        I
+I  IIII  IIII  I  IIII  IIII  I  I  IIII  IIII
+I  I     I        I     I     I  I     I  I &I
+I  I  IIIIIII  IIIIIIIIII  IIII  IIII  I  I  I
+I     I     I           I     I  I  I     I  I
+I  IIIIIII  IIIIIIIIII  IIII  I  I  IIIIIII  I
+I  I        I           I     I           I  I
+I  I  IIIIIII  IIII  IIII  IIIIIIIIIIIII  I  I
+I  I  I        I     I     I     I        I  I
+I  I  I  IIIIIIIIIIIII  IIIIIII  I  IIIIIII  I
+I  I  I                          I           I
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+

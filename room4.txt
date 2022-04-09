@@ -1,0 +1,20 @@
+Life: 1
+Time: 133
+
+     IIIIIIIIIIIIIIIIIIIIIII
+  IIII      IIIIIIII       I
+III                 I      I
+I    IIIIIIIIIIIIII I      I
+I       I    IIIIII I      I
+IIIII   I    I&            I
+I   I   I    IIIIIIII      I
+I I I   IIIIIIIIIIIIIIIIIIII           
+I I I                      I
+I I IIIIIIIIIIIIIIIIIIIIII I
+I I I                      I
+I I I  IIIIIIIIIIIIIIIIIII I
+I I I                    I I 
+IaI IIIII                I I
+III     IIIIIIIIIIIIII   I I
+  IIII                   I I
+     IIIIIIIIIIIIIIIIIIIIIII
