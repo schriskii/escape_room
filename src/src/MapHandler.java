@@ -341,6 +341,22 @@ public class MapHandler {
     public int getHeight() {
         return cols;
     }
+    
+    // gets the player tile
+    public GenericTile getPlayerTile()
+    {
+        for (int i = 0; i < roomData.length; i++)
+            {
+            for (int j = 0; j < roomData[i].length; j++)
+                {
+                    if(roomData[i][j].getDisplayChar() == 'a')
+                    {
+                        return roomData[i][j];
+                    }
+            }
+        }        
+        return roomData[0][0];
+    }
 
 
 }
