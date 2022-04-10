@@ -1,4 +1,14 @@
 /*
+Student Name: Chris Koenig, Carter Hinkle, Alexander Rodriguez, Yasmine
+Program Name: Escape Room
+Creation Date: Fall 2020 (date unknown)
+Last Modified Date: Fall 2020 (date unknown)
+CSCI Course: CSCI 325
+Grade Received: (unknown)
+Design Comments: (n/a)
+*/
+
+/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
