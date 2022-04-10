@@ -1,3 +1,13 @@
+/*
+Student Name: Chris Koenig, Carter Hinkle, Alexander Rodriguez, Yasmine
+Program Name: Escape Room
+Creation Date: Fall 2020 (date unknown)
+Last Modified Date: Fall 2020 (date unknown)
+CSCI Course: CSCI 325
+Grade Received: (unknown)
+Design Comments: (n/a)
+*/
+
 package src;
 
 import java.util.Scanner;
